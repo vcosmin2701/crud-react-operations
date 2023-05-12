@@ -1,0 +1,38 @@
+* {
+    margin: 0;
+    font-family: "Roboto";
+    color: black;
+  }
+  
+.container {
+    max-width: 600px;
+    margin: 40px auto;
+    padding: 20px;
+}
+
+.label-content {
+    margin-left:450px;
+}
+
+.move-input1{
+    margin-left: 81px;
+}
+
+.move-input2{
+    margin-left: 50px;
+}
+
+.move-input3{
+    margin-left: 26px;
+}
+
+h1, h2 {
+    text-align: center;
+}
+
+.center-button {
+    display: block;
+    margin-left: 160px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
